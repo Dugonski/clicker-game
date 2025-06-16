@@ -6,6 +6,8 @@ A simple incremental clicker game inspired by Cookie Clicker, built with React, 
 
 ## 🔧 Technologies
 
+The technologies utilized in this repository:
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github)](https://skillicons.dev)   
 
 Made with ❤️ by Guilherme Dugonski
